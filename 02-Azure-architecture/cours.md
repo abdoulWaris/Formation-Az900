@@ -1,4 +1,4 @@
-# 02 - Azure Architecture 🏗️
+# 02 - Azure Architecture
 
 ## Introduction
 
