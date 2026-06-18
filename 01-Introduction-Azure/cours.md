@@ -50,7 +50,7 @@ Combinaison du cloud public et privé.
 
 ## 3. Modèles de service Cloud
 
-### 🔸 IaaS (Infrastructure as a Service)
+### IaaS (Infrastructure as a Service)
 Tu gères :
 - OS
 - Applications
@@ -65,7 +65,7 @@ Exemple : Azure Virtual Machines
 
 ---
 
-### 🔸 PaaS (Platform as a Service)
+### PaaS (Platform as a Service)
 Tu gères uniquement :
 - Applications
 - Données
@@ -79,7 +79,7 @@ Exemple : Azure App Service
 
 ---
 
-### 🔸 SaaS (Software as a Service)
+### SaaS (Software as a Service)
 Tout est géré par le fournisseur.
 
 Tu utilises simplement l’application.
